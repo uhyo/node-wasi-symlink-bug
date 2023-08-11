@@ -1,5 +1,7 @@
 # Reproduction of a symlink handling issue in Node.js WASI preview1 implementation
 
+Node.js issue: https://github.com/nodejs/node/issues/49107
+
 ## Description
 
 This repository contains a reproduction of a symlink handling issue in Node.js WASI preview1 implementation.
